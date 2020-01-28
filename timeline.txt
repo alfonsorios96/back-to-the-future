@@ -1,3 +1,4 @@
 1996    Nacimiento
 2008    Primaria
 2011    Secundaria
+2014    Preparatoria
